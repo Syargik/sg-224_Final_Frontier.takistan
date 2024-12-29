@@ -20508,6 +20508,7 @@ class Mission
 			};
 			id=1381;
 			type="mkk_Hilux_Unarmed";
+			atlOffset=-6.8664551e-05;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -21060,7 +21061,7 @@ class Mission
 			};
 			id=1391;
 			type="mkk_VTN_TOYOTA_KADDB_NSVS_R";
-			atlOffset=0.00048828125;
+			atlOffset=0.0004196167;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -21193,7 +21194,7 @@ class Mission
 			};
 			id=1392;
 			type="mkk_kipri_mrap";
-			atlOffset=1.5258789e-05;
+			atlOffset=-0.014938354;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -21342,7 +21343,7 @@ class Mission
 			};
 			id=1393;
 			type="rhsusf_m1043_w_m2";
-			atlOffset=0.043365479;
+			atlOffset=0.039657593;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -21698,7 +21699,7 @@ class Mission
 					class PositionInfo
 					{
 						position[]={1551.7462,213.39563,3553.6428};
-						angles[]={0,2.1567225,-0};
+						angles[]={0,2.1567225,0};
 					};
 					side="West";
 					flags=5;

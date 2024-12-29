@@ -1,4 +1,4 @@
 ﻿author = "Syargik";
-onLoadName = "Last Frontier";
+onLoadName = "Final Frontier";
 onLoadMission = "";
 loadScreen = "load.paa";

@@ -13,4 +13,4 @@ _veh addItemCargoGlobal ["rhs_mag_an_m8hc", 15];
 _veh addItemCargoGlobal ["rhs_mag_30Rnd_556x45_M855A1_Stanag", 20];
 
 _veh addBackpackCargoGlobal ['LOP_B_FP_MG42_tub', 4];
-_veh addBackpackCargoGlobal ['mkk_Bag_Felin_cec_45L_Radio', 2];
+_veh addBackpackCargoGlobal ['mkk_Bag_Felin_cec_45L_Radio', 1];

@@ -18,4 +18,4 @@ _veh addItemCargoGlobal ['rhs_mag_rgd5', 10];
 _veh addItemCargoGlobal ['rhs_mag_rdg2_white', 10];
 _veh addItemCargoGlobal ['rhs_30Rnd_545x39_7N10_desert_AK', 10];
 
-_veh addBackpackCargoGlobal ['mkk_rt1523g_big_bwmod_tropen_RED', 2];
+_veh addBackpackCargoGlobal ['mkk_rt1523g_big_bwmod_tropen_RED', 1];

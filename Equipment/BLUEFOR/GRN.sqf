@@ -8,7 +8,7 @@ _unit addItem "rhs_mag_M441_HE";
 _unit addItem "rhs_mag_30Rnd_556x45_M855A1_Stanag";
 _unit addWeapon "mkk_TMT_MPT55_AK40";
 _unit addPrimaryWeaponItem "mkk_hlc_muzzle_SF3P_556";
-_unit addPrimaryWeaponItem "rhsusf_acc_ACOG";
+_unit addPrimaryWeaponItem "rhsusf_acc_eotech_xps3";
 
 _unit addWeapon "mkk_B8_Binocular";
 

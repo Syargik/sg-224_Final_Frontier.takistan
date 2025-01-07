@@ -18,5 +18,4 @@ _veh addItemCargoGlobal ['vtn_pg7vl', 5];
 _veh addItemCargoGlobal ['vtn_og7v', 5];
 _veh addItemCargoGlobal ["ace_mag_127x108mm_50", 10];
 
-_veh addBackpackCargoGlobal ['rhs_tortila_grey', 4];
-_veh addBackpackCargoGlobal ['mkk_rt1523g_big_bwmod_tropen_RED', 2];
+_veh addBackpackCargoGlobal ['rhs_tortila_grey', 2];

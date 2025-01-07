@@ -7,7 +7,7 @@ _unit addBackpack "B_Carryall_Base";
 _unit addItem "mkk_20Rnd_M80_762x51_HK417";
 _unit addWeapon "mkk_arifle_HK417_20";
 _unit addPrimaryWeaponItem "rhsusf_acc_aac_762sd_silencer";
-_unit addPrimaryWeaponItem "rhsusf_acc_ACOG_USMC";
+_unit addPrimaryWeaponItem "rhsusf_acc_su230a";
 
 _unit addWeapon "ACE_Vector";
 

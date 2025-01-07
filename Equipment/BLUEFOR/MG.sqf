@@ -7,7 +7,7 @@ _unit addBackpack "B_Carryall_Base";
 _unit addItem "rhsusf_100Rnd_762x51_m61_ap";
 _unit addWeapon "rhs_weap_fnmag";
 _unit addPrimaryWeaponItem "rhsusf_acc_ARDEC_M240";
-_unit addPrimaryWeaponItem "rhsusf_acc_su230";
+_unit addPrimaryWeaponItem "rhsusf_acc_eotech_xps3";
 
 _unit addWeapon "mkk_B8_Binocular";
 

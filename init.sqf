@@ -16,12 +16,12 @@ if (isServer) then
 	} forEach [flag_1, flag_2]; 
 };
 
-if (!isDedicated) then
-{
-	[] spawn {
-	waitUntil {sleep 10; a3a_var_started};
- [ 
-] spawn BIS_fnc_typeText;
-
-};
-};
+[
+	[
+		KS,
+		[
+			["1st_platoon", "1-ый мотопехотный взвод", true, "1-ый мотопехотный взвод", ["for_1st"], []],
+			["2nd_platoon", "2-ый мотопехотный взвод", true, "2-ый мотопехотный взвод", ["for_2nd"], []]
+		]
+	]
+] execVM "scripts\fnc_kik_spawnChoice.sqf";

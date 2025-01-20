@@ -14,7 +14,7 @@ _unit addWeapon "ACE_Vector";
 removeBackpack _unit;
 
 // Uniform with items:
-_unit forceAddUniform "mkk_TAF_Uniform_clothingmlcm3";
+_unit forceAddUniform "mkk_TAF_Uniform_clothingpoh7";
 
 // Vest with items:
 _unit addVest "mkk_kkk_fullvest_medium";

@@ -14,7 +14,7 @@ _unit addWeapon "ACE_Vector";
 removeBackpack _unit;
 
 // Uniform with items:
-_unit forceAddUniform "mkk_TAF_Uniform_clothingmlcm3";
+_unit forceAddUniform "mkk_TAF_UniformBasit_clothing_black";
 _unit addItemToUniform 'ACE_MapTools';
 _unit addItemToUniform 'ACE_RangeCard';
 _unit addItemToUniform 'ACE_Kestrel4500';

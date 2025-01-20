@@ -14,17 +14,17 @@ _unit addWeapon "mkk_B8_Binocular";
 removeBackpack _unit;
 
 // Uniform with items:
-_unit forceAddUniform "mkk_TAF_UniformBasit_clothing_tan";
+_unit forceAddUniform "AGE_Fatigues_Black_Gloves";
 
 // Vest with items:
-_unit addVest "mkk_jgk_tactical_vest_full";
+_unit addVest "JCA_MCRP_V_CarrierRigKBT_01_CQB_black_F";
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_m67';};
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_an_m8hc';};
 for '_i' from 1 to 6 do { _unit addItemToVest 'rhs_mag_30Rnd_556x45_M855A1_Stanag';};
 
 // Backpack with items:
 _unit addBackpack "LOP_B_FP_MG42_tub";
-_unit addHeadgear "mkk_m88helmet_camo_jgk";
+_unit addHeadgear "rhsusf_opscore_bk";
 
 _unit linkItem "ItemMap";
 _unit linkItem "ItemCompass";

@@ -17,5 +17,6 @@ _veh addItemCargoGlobal ['rhs_VOG25', 20];
 _veh addItemCargoGlobal ['vtn_pg7vl', 5];
 _veh addItemCargoGlobal ['vtn_og7v', 5];
 _veh addItemCargoGlobal ["ToolKit", 2];
+_veh addItemCargoGlobal ["rhsusf_ach_bare_tan", 2];
 
 _veh addBackpackCargoGlobal ['rhs_tortila_grey', 4];

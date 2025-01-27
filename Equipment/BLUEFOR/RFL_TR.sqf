@@ -4,12 +4,11 @@ _unit addBackpack "B_Carryall_Base";
 
 // Weapons with attachments:
 
-_unit addItem "mkk_20Rnd_M80A1_762x51_HK417_D";
-_unit addWeapon "mkk_arifle_HK417_20";
-_unit addPrimaryWeaponItem "rhsusf_acc_aac_762sd_silencer";
-_unit addPrimaryWeaponItem "rhsusf_acc_su230a";
+_unit addItem "rhs_mag_30Rnd_556x45_M855A1_Stanag";
+_unit addWeapon "rhs_weap_hk416d10_LMT_wd";
+_unit addPrimaryWeaponItem "rhsusf_acc_eotech_xps3";
 
-_unit addWeapon "ACE_Vector";
+_unit addWeapon "mkk_B8_Binocular";
 
 removeBackpack _unit;
 
@@ -20,7 +19,7 @@ _unit forceAddUniform "mkk_TAF_UniformBasit_clothing_black";
 _unit addVest "mkk_kkk_fullvest_medium";
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_m67';};
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_an_m8hc';};
-for '_i' from 1 to 6 do { _unit addItemToVest 'mkk_20Rnd_M80A1_762x51_HK417_D';};
+for '_i' from 1 to 6 do { _unit addItemToVest 'rhs_mag_30Rnd_556x45_M855A1_Stanag';};
 
 // Backpack with items:
 _unit addBackpack "LOP_B_FP_MG42_tub";

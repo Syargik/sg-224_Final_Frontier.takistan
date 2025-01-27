@@ -10,7 +10,7 @@ _veh addItemcargoGlobal ['ACE_packingBandage', 30];
 _veh addItemCargoGlobal ['ACE_splint', 10];
 _veh addItemCargoGlobal ["rhs_mag_m67", 15];
 _veh addItemCargoGlobal ["rhs_mag_an_m8hc", 15];
-_veh addItemCargoGlobal ["mkk_20Rnd_M80_762x51_HK417", 20];
+_veh addItemCargoGlobal ["mkk_20Rnd_M80A1_762x51_HK417_D", 20];
 _veh addItemCargoGlobal ["rhs_mag_30Rnd_556x45_M855A1_Stanag", 30];
 _veh addItemCargoGlobal ["rhsusf_200Rnd_556x45_box", 10];
 

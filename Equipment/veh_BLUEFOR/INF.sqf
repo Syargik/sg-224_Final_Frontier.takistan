@@ -18,4 +18,4 @@ _veh addItemCargoGlobal ["rhsusf_mag_6Rnd_M441_HE", 6];
 _veh addWeaponCargoGlobal ["rhs_weap_m32", 1];
 _veh addWeaponCargoGlobal ["rhs_weap_m72a7", 2];
 
-_veh addBackpackCargoGlobal ['LOP_B_FP_MG42_tub', 2];
+_veh addBackpackCargoGlobal ['B_FieldPack_blk', 2];

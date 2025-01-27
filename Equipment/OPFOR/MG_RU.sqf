@@ -7,7 +7,7 @@ _unit addBackpack "B_Carryall_Base";
 _unit addItem "rhs_100Rnd_762x54mmR_7N13";
 _unit addWeapon "mkk_VTN_PKP_TUNED_TACTICAL";
 _unit addPrimaryWeaponItem "nmg_silence_dtk_gexagonak";
-_unit addPrimaryWeaponItem "mkc_optic_1p86_1";
+_unit addPrimaryWeaponItem "mkc_optic_1p86";
 
 _unit addWeapon "mkk_B8_Binocular";
 

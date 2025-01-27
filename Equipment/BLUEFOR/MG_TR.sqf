@@ -6,7 +6,6 @@ _unit addBackpack "B_Carryall_Base";
 
 _unit addItem "rhsusf_200Rnd_556x45_box";
 _unit addWeapon "rhs_weap_minimi_para_railed";
-_unit addPrimaryWeaponItem "BWA3_muzzle_snds_Rotex_IIIC";
 _unit addPrimaryWeaponItem "rhsusf_acc_ACOG_USMC";
 _unit addPrimaryWeaponItem "rhsusf_acc_saw_bipod";
 

@@ -16,4 +16,4 @@ _veh addItemCargoGlobal ["rhsusf_100Rnd_762x51_m61_ap", 5];
 _veh addItemCargoGlobal ["rhs_mag_30Rnd_556x45_M855A1_Stanag", 10];
 _veh addItemCargoGlobal ["ace_mag_100rnd_127x99_mag_Tracer_Red", 6];
 
-_veh addBackpackCargoGlobal ['LOP_B_FP_MG42_tub', 2];
+_veh addBackpackCargoGlobal ['B_FieldPack_blk', 2];

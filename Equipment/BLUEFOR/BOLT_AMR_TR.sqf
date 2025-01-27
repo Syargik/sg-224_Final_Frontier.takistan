@@ -4,10 +4,9 @@ _unit addBackpack "B_Carryall_Base";
 
 // Weapons with attachments:
 
-_unit addItem "mkk_20Rnd_M80A1_762x51_HK417_D";
-_unit addWeapon "mkk_arifle_HK417_20";
-_unit addPrimaryWeaponItem "rhsusf_acc_aac_762sd_silencer";
-_unit addPrimaryWeaponItem "rhsusf_acc_su230a";
+_unit addItem "rhsusf_mag_10Rnd_STD_50BMG_M33";
+_unit addWeapon "rhs_weap_M107_d";
+_unit addPrimaryWeaponItem "mkk_hlc_optic_LeupoldM3A";
 
 _unit addWeapon "ACE_Vector";
 
@@ -15,16 +14,20 @@ removeBackpack _unit;
 
 // Uniform with items:
 _unit forceAddUniform "mkk_TAF_UniformBasit_clothing_black";
+_unit addItemToUniform 'ACE_MapTools';
+_unit addItemToUniform 'ACE_RangeCard';
+_unit addItemToUniform 'ACE_Kestrel4500';
 
 // Vest with items:
 _unit addVest "mkk_kkk_fullvest_medium";
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_m67';};
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_an_m8hc';};
-for '_i' from 1 to 6 do { _unit addItemToVest 'mkk_20Rnd_M80A1_762x51_HK417_D';};
+for '_i' from 1 to 6 do { _unit addItemToVest 'rhsusf_mag_10Rnd_STD_50BMG_M33';};
 
 // Backpack with items:
-_unit addBackpack "LOP_B_FP_MG42_tub";
-_unit addHeadgear "mkk_ops_core_camo_headset_kkk";
+_unit addBackpack "mkk_Bag_Felin_cec_45L_Radio";
+_unit addItemToBackpack 'ACE_Tripod';
+_unit addHeadgear "tfa_booniehat_mct";
 
 _unit linkItem "ItemMap";
 _unit linkItem "ItemCompass";

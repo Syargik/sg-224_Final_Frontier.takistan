@@ -23,7 +23,7 @@ for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_an_m8hc';};
 for '_i' from 1 to 6 do { _unit addItemToVest 'rhs_mag_30Rnd_556x45_M855A1_Stanag';};
 
 // Backpack with items:
-_unit addBackpack "LOP_B_KB_Med_tub";
+_unit addBackpack "B_FieldPack_blk";
 _unit addHeadgear "rhsusf_opscore_bk";
 
 _unit linkItem "ItemMap";

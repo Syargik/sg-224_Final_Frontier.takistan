@@ -24,7 +24,7 @@ for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_an_m8hc';};
 for '_i' from 1 to 6 do { _unit addItemToVest 'rhs_mag_30Rnd_556x45_M855A1_Stanag';};
 
 // Backpack with items:
-_unit addBackpack "LOP_B_FP_MG42_tub";
+_unit addBackpack "B_FieldPack_blk";
 for '_i' from 1 to 15 do { _unit addItemToBackpack 'rhs_mag_M441_HE';};
 for '_i' from 1 to 5 do { _unit addItemToBackpack 'rhs_mag_M433_HEDP';};
 _unit addHeadgear "rhsusf_opscore_bk";

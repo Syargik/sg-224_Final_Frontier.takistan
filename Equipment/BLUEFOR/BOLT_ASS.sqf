@@ -7,7 +7,7 @@ _unit addBackpack "B_Carryall_Base";
 _unit addItem "mkk_TMT_20Rnd_762x51_B_mpt76";
 _unit addWeapon "mkk_TMT_KNT76_TAN";
 _unit addPrimaryWeaponItem "rhsgref_sdn6_suppressor";
-_unit addPrimaryWeaponItem "rhsusf_acc_ACOG_USMC";
+_unit addPrimaryWeaponItem "rhsusf_acc_su230a";
 
 _unit addWeapon "ACE_Vector";
 

@@ -16,10 +16,10 @@ class EditorData
 	};
 	class Camera
 	{
-		pos[]={3572.5967,277.32291,4164.376};
-		dir[]={-0.67073947,-0.73173839,0.12181464};
-		up[]={-0.71995711,0.6815877,0.13075376};
-		aside[]={0.1787024,1.0658114e-06,0.98396462};
+		pos[]={4121.3389,563.45422,2874.6182};
+		dir[]={-0.8478238,-0.52012467,-0.10335445};
+		up[]={-0.51630402,0.85408807,-0.062940292};
+		aside[]={-0.12101045,2.9816874e-08,0.99265641};
 	};
 };
 binarizationWanted=0;
@@ -15841,14 +15841,14 @@ class Mission
 					dataType="Object";
 					class PositionInfo
 					{
-						position[]={4094.5308,552.75189,2870.6768};
-						angles[]={0.0032655355,1.4686394,6.251368};
+						position[]={4094.531,552.75177,2870.677};
+						angles[]={0.0032637657,1.4686422,6.251368};
 					};
 					side="West";
 					flags=5;
 					class Attributes
 					{
-						init="[this,""BLUEFOR"",""TL_TR""] call SerP_unitprocessor;";
+						init="[this,""BLUEFOR"",""RFL_TR""] call SerP_unitprocessor;";
 						description="4. Rifleman";
 						isPlayable=1;
 						class Inventory
@@ -15857,7 +15857,6 @@ class Mission
 					};
 					id=2754;
 					type="mkk_Survivor_B";
-					atlOffset=6.1035156e-05;
 					class CustomAttributes
 					{
 						class Attribute0
@@ -15894,14 +15893,14 @@ class Mission
 					dataType="Object";
 					class PositionInfo
 					{
-						position[]={4094.2756,552.16479,2873.1638};
-						angles[]={0.0014089742,1.4686908,0.001739672};
+						position[]={4094.2759,552.16467,2873.1641};
+						angles[]={0.0014137167,1.4686946,0.0017453292};
 					};
 					side="West";
 					flags=5;
 					class Attributes
 					{
-						init="[this,""BLUEFOR"",""TL_TR""] call SerP_unitprocessor;";
+						init="[this,""BLUEFOR"",""RFL_TR""] call SerP_unitprocessor;";
 						description="5. Rifleman";
 						isPlayable=1;
 						class Inventory
@@ -23551,11 +23550,11 @@ class Mission
 	{
 		class LinkIDProvider
 		{
-			nextID=88;
+			nextID=92;
 		};
 		class Links
 		{
-			items=88;
+			items=92;
 			class Item0
 			{
 				linkID=0;
@@ -24431,6 +24430,46 @@ class Mission
 				linkID=87;
 				item0=2155;
 				item1=1351;
+				class CustomData
+				{
+					type="Sync";
+				};
+			};
+			class Item88
+			{
+				linkID=88;
+				item0=2896;
+				item1=1352;
+				class CustomData
+				{
+					type="Sync";
+				};
+			};
+			class Item89
+			{
+				linkID=89;
+				item0=2896;
+				item1=1351;
+				class CustomData
+				{
+					type="Sync";
+				};
+			};
+			class Item90
+			{
+				linkID=90;
+				item0=1392;
+				item1=1351;
+				class CustomData
+				{
+					type="Sync";
+				};
+			};
+			class Item91
+			{
+				linkID=91;
+				item0=1392;
+				item1=1352;
 				class CustomData
 				{
 					type="Sync";

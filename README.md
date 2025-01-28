@@ -1,3 +1,5 @@
+[IMAGES](https://drive.google.com/drive/folders/15zGbuzJZB_NruV-m6L-VHe3jZfcES9FY?usp=sharing)
+
 v2
 
 1. Изменено название слота platoon (2) seargeant

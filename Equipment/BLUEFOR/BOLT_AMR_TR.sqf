@@ -6,7 +6,7 @@ _unit addBackpack "B_Carryall_Base";
 
 _unit addItem "rhsusf_mag_10Rnd_STD_50BMG_M33";
 _unit addWeapon "rhs_weap_M107_d";
-_unit addPrimaryWeaponItem "rhsusf_acc_nxs_5522x56_md_sun";
+_unit addPrimaryWeaponItem "rhs_acc_dh520x56";
 
 _unit addWeapon "ACE_Vector";
 

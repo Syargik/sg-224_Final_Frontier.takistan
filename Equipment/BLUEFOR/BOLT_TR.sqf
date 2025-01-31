@@ -6,7 +6,7 @@ _unit addBackpack "B_Carryall_Base";
 
 _unit addItem "mkk_10Rnd_762x51_NATO_JNG90";
 _unit addWeapon "mkk_JNG90_T_Silenced";
-_unit addPrimaryWeaponItem "rhsusf_acc_nxs_5522x56_md_sun";
+_unit addPrimaryWeaponItem "rhs_acc_dh520x56";
 _unit addPrimaryWeaponItem "BWA3_bipod_Harris_tan";
 
 _unit addWeapon "ACE_Vector";
